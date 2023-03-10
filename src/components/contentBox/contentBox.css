@@ -1,8 +1,14 @@
 .content-box-container {
-  padding: 4rem 19rem;
+  width: 1000px;
+  height: 300px;
   background-color: #ffffff;
   border-radius: 20px;
   -webkit-box-shadow: 5px 5px 15px 5px #000000;
   box-shadow: 5px 5px 15px 5px #000000;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding-inline: 3rem;
 }

@@ -1,8 +1,8 @@
 import "./button.css";
 
-const Button = () => {
+const Button = ({ changeQuote }) => {
   return (
-    <button>
+    <button onClick={changeQuote}>
       <span>GIVE ME ADVICE!</span>
     </button>
   );
