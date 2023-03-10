@@ -1,7 +1,8 @@
 .content-box-container {
-  padding: 5rem 20rem;
+  padding: 4rem 19rem;
   background-color: #ffffff;
   border-radius: 20px;
   -webkit-box-shadow: 5px 5px 15px 5px #000000;
   box-shadow: 5px 5px 15px 5px #000000;
+  text-align: center;
 }

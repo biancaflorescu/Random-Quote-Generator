@@ -1,7 +1,7 @@
 import "./quote.css";
 
 const Quote = () => {
-  return <div>Random quote</div>;
+  return <div className="quote">Random quote</div>;
 };
 
 export default Quote;

@@ -1,7 +1,11 @@
 import "./button.css";
 
 const Button = () => {
-  return <button>GIVE ME ADVICE!</button>;
+  return (
+    <button>
+      <span>GIVE ME ADVICE!</span>
+    </button>
+  );
 };
 
 export default Button;
