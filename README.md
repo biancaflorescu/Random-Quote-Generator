@@ -1,3 +1,3 @@
 # Random Quote Generator
 
-App created using React and Advice Slip JSON API.
+App created using React and Random Quotes API.
